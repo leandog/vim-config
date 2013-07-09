@@ -1,3 +1,6 @@
 .netrwhist
 .vimlog
 doc
+bundle/*
+local/*
+tmp/*
