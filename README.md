@@ -6,12 +6,12 @@ This configuration is based on http://github.com/Casecommons/vim-config with sup
 
 (Re)move ~/.vim and ~/.vimrc if you have them already, and run:
 
-    git clone git@github.com:Casecommons/vim-config.git ~/.vim
+    git clone git@github.com:leandog/vim-config.git ~/.vim
     cd ~/.vim
     postinstall.sh
 
 ## Updating
 
-As long as your checkout is kept clean, you can easily update, rebase your local changes and update submodules with:
+As long as your checkout is kept clean, you can easily update and rebase your local changes with:
 
-    cd ~/.vim && curl -s https://raw.github.com/bronson/vim-update-bundles/master/vim-update-bundles | ruby; cd -
+    cd ~/.vim && git pull --rebase ; cd - ; vim +BundleInstall +qall
