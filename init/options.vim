@@ -1,4 +1,4 @@
-set guifont=Menlo:h21
+set guifont=Menlo\ Regular\ for\ Powerline:h15
 set guioptions-=T               " Remove GUI toolbar
 set guioptions-=e               " Use text tab bar, not GUI
 set guioptions-=rL              " Remove scrollbars

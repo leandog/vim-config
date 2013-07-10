@@ -83,6 +83,13 @@ Bundle 'Lokaltog/vim-powerline'
 Bundle 'scrooloose/nerdcommenter'
 Bundle 'majutsushi/tagbar'
 Bundle 'jgdavey/vim-blockle'
+Bundle 'mgamba/j-split'
+Bundle 'basepi/vim-conque'
+Bundle 'vim-scripts/Color-Sampler-Pack'
+Bundle 'altercation/vim-colors-solarized'
+Bundle 'vim-scripts/candycode.vim'
+Bundle 'tpope/vim-vividchalk'
+Bundle 'chriskempson/vim-tomorrow-theme'
 
 syntax on
 filetype plugin indent on
