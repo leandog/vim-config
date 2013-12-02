@@ -31,7 +31,7 @@ Bundle 'tpope/vim-git'
 Bundle 'tpope/vim-abolish'
 Bundle 'tpope/vim-endwise'
 Bundle 'tpope/vim-markdown'
-Bundle 'tpope/vim-repeat'echo -e "\n**** Installing Ack for use in Vim if needed ****\n"
+Bundle 'tpope/vim-repeat'
 Bundle 'tpope/vim-surround'
 Bundle 'tpope/vim-endwise'
 Bundle 'tpope/vim-bundler'
